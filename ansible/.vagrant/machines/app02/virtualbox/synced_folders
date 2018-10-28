@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/home/ratiel/projekty/ansible/mounted","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/ratiel/projekty/ansible","disabled":false,"__vagrantfile":true}}}
